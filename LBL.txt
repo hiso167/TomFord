@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Laid Back Lounge</title>
+</head>
+<body>
+	<h1>Laid Back Lounge</h1>
+	<p>Welcome to the Laid Back Lounge! Our lounge is the perfect spot to unwind and relax with friends or colleagues. Our cozy atmosphere and friendly staff will make you feel right at home. Come check us out!</p>
+
+	<h2>More About Our Lounge</h2>
+	<ul>
+		<li><a href="#atmosphere">Atmosphere</a></li>
+		<li><a href="#menu">Menu</a></li>
+		<li><a href="#events">Events</a></li>
+	</ul>
+
+	<h3 id="atmosphere">Atmosphere</h3>
+	<p>Our lounge has a cozy, intimate atmosphere with comfortable seating and soft lighting. Whether you're here for a drink after work or a night out with friends, our space is the perfect spot to unwind and relax.</p>
+
+	<h3 id="menu">Menu</h3>
+	<p>We offer a range of drinks, including beer, wine, and cocktails, as well as a selection of light bites and snacks. Our menu is designed to complement our relaxed atmosphere and provide the perfect accompaniment to your evening.</p>
+
+	<h3 id="events">Events</h3>
+	<p>We host a range of events throughout the year, including live music, comedy nights, and quiz nights. Keep an eye on our website or social media pages for the latest updates on what's coming up.</p>
+</body>
+</html>
